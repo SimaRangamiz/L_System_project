@@ -1,4 +1,3 @@
-L_System
 This project implements and visualizes L-System (Lindenmayer System). L-System is a method for generating fractal-like structures using recursive string rewriting. This system is widely used in computer graphics, plant modeling, and the generation of complex patterns.
 
 Features:
