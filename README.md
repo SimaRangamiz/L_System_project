@@ -1,1 +1,1 @@
-# L_System_project
+This project implements and visualizes L-systems, a method of generating fractal-like structures using recursive string rewriting. The code consists of three separate L-system simulations that create intricate patterns based on different sets of rules and axioms
